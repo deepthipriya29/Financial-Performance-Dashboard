@@ -79,11 +79,11 @@ Interactive P&L Matrix including:
 
 ![Country Performance Dashboard](Screenshot%202026-06-29%20213359.png)
 
-### Profitability Dashboard
+### Financial KPI Analysis
 
 ![Profitability Dashboard](Screenshot%202026-06-29%20213411.png)
 
-### Financial KPI Analysis
+### Profitability Dashboard
 
 ![Financial KPI Dashboard](Screenshot%202026-06-29%20213436.png)
 
